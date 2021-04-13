@@ -12,5 +12,5 @@ A repo contains courses to learn and pratice I took at codcademy.
 | On Going       |full-stack engineer       |HTML, CSS, JavaScript, React.js, API, Node.js, SQL, Node            |
 
 
-Claimer: I do not possess the copyrights of the materials inside this repo. 
+Claimer: I do not possess the copyrights of the materials inside this repo
 The repo's purpose is purely to store and for reviewing my work personally.
